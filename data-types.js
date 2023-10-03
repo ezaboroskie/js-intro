@@ -10,7 +10,7 @@ let string2 = "World"
 // strings can contain numbers but will only be read and evaluated as a string as long as the quotes encompass the number
 let stringNumber = '1'
 
-//concatString will concatinate into the string '12'
+//concatString will concatenate into the string '12'
 let concatString = '1' + '2'
 
 
